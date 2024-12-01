@@ -24,3 +24,6 @@ I focus on macroeconomics and economic history. I work with microdata extracted 
 
 I hold an MSc with Distinction in Economic History (Research) from the London School of Economics and a BA in Economics from Plekhanov Russian University of Economics. I received the Plekhanov Award for Best Research Performance among the graduating cohort across all majors, as well as a commendation from the Russian Ministry of Education. My master's dissertation was awarded the ESCoE Prize for Best Dissertation.
 
+Here is my CV.
+
+My Email is kushnark [at] tcd [dot] ie. 
