@@ -1,33 +1,35 @@
 {
-  "basics": {
-    "name": "Kirill Kushnarev",
-    "label": "Pre-Doctoral Research Assistant",
+  "main information": {
+    "Full Name": "Kirill Kushnarev",
+    "Current Appointment": "Pre-Doc at CEPH",
     "email": "kushnark@tcd.ie",
-    "url": "https://kkushn.github.io",
-    "summary": "Pre-doctoral Research Assistant at Trinity College Dublin specializing in Economic History and Macroeconomics.",
+    "url": "https://ceph.ie/people-re/kirill-kushnarev/",
+    "summary": "I am assisting with Russian Economic History projects for Dr. Marvin Suesse. In my main project, I focus on merging, cleaning, and extracting relevant data from various waves of censuses in the late Russian Empire.",
     "location": {
       "address": "Arts Building, Trinity College Dublin",
       "postalCode": "D02 PN40",
       "city": "Dublin",
       "countryCode": "IE",
-      "region": "Leinster"
+      "region": "Dublin"
     }
   },
   "education": [
     {
       "institution": "London School of Economics",
       "location": "London, United Kingdom",
-      "studyType": "MSc",
-      "area": "Economic History (Research)",
-      "startDate": "2024",
+      "studyType": "MSc with Distinction in Economic History (Research)",
+      "dissertation": "Local Labour Market Concentration Since the British Industrial Revolution",
+      "field courses": "Selective Inference (PhD level in Math, Advanced); EC539 Macroeconomics for Research Students (PhD level, Auditing); EC465 Economic Development, Growth, and Capitalism in Historical Perspective; EH441 Macroeconomic History",
+      "startDate": "2023",
       "endDate": "2024"
     },
     {
       "institution": "Plekhanov Russian University of Economics",
       "location": "Moscow, Russia",
-      "studyType": "BA",
-      "area": "Economics",
-      "startDate": "2022",
+      "studyType": "BA in Economics",
+      "area": "With a major in Economics and a minor in Data Science",
+      "field courses": "Macroeconomics, Microeconomics, Advanced Econometrics, Advanced Statistics, Parallel Computing, and Big Data",
+      "startDate": "2018",
       "endDate": "2022"
     }
   ],
@@ -40,7 +42,7 @@
       "name": "Trinity College Dublin",
       "position": "Pre-Doctoral Research Assistant",
       "startDate": "2024",
-      "summary": "Pre-doc, The Centre for Economics, Policy and History, Department of Economics."
+      "summary": "I am working on the cross-linkages of different waves of manufacturing censuses as part of a research project under the supervision of Dr. Marvin Suesse."
     },
     {
       "name": "Plekhanov Russian University of Economics",
@@ -49,37 +51,101 @@
       "endDate": "2022",
       "highlights": [
         "Education Lab of Modern Financial Technology",
-        "President’s Advisor's Climate Change Working Group",
+        "President’s Advisor’s Climate Change Working Group (resigned following the Russian invasion of Ukraine)",
         "York Entrepreneurship Development Institute",
         "Lab of Monetary Research and Financial Market Analysis",
         "Department of History and Philosophy"
       ]
     }
   ],
-  "grants": [
-    {
-      "title": "Government Spending and Local Development Narratives",
-      "amount": "$30,000",
-      "date": "2022",
-      "summary": "Principal Investigator researching the effects of shifts in government spending on local development."
-    },
-    {
-      "title": "Art-Market Regulations in Russia",
-      "amount": "$2,000",
-      "date": "2021",
-      "summary": "Principal Investigator, published findings through the Russian Financial Intelligence Agency."
-    }
-  ],
   "awards": [
     {
-      "title": "ESCoE Master's Dissertation Programme First Prize",
-      "date": "2024",
-      "summary": "Awarded for a dissertation on labour market concentration during the British Industrial Revolution."
+      "type": "Grants",
+      "items": [
+        {
+          "title": "Government Spending and Local Development Narratives",
+          "amount": "$30,000",
+          "date": "2022",
+          "summary": "Principal Investigator researching the effects of shifts in government spending on local development."
+        },
+        {
+          "title": "Art-Market Regulations in Russia",
+          "amount": "$2,000",
+          "date": "2021",
+          "summary": "Principal Investigator, published findings through the Russian Financial Intelligence Agency."
+        },
+        {
+          "title": "Financial Risk Estimation Models",
+          "amount": "$5,000",
+          "date": "2020",
+          "summary": "Developed models using Python, inspired by methods from physics."
+        }
+      ]
     },
     {
-      "title": "Plekhanov Proud Award",
-      "date": "2022",
-      "summary": "University-wide recognition for academic excellence and impactful research."
+      "type": "Scholarships",
+      "items": [
+        {
+          "title": "Russian Government Scholarship",
+          "amount": "£200",
+          "date": "2021"
+        },
+        {
+          "title": "PJSK Rosneft Oil Company Scholarship",
+          "amount": "£3,600",
+          "date": "2020"
+        },
+        {
+          "title": "Government Scholarship for a 4-Year Bachelor's Degree Without an Entry Examination",
+          "amount": "£16,000",
+          "date": "2018"
+        }
+      ]
+    },
+    {
+      "type": "Awards",
+      "items": [
+        {
+          "year": "2024",
+          "title": "ESCoE Master's Dissertation Programme First Prize",
+          "amount": "£500",
+          "summary": "Awarded for excellence in master's dissertation research."
+        },
+        {
+          "year": "2022",
+          "title": "Plekhanov Proud Award",
+          "summary": "University-wide recognition for outstanding research contributions."
+        },
+        {
+          "year": "2021",
+          "title": "Commendation From the Ministry of Science and Higher Education",
+          "summary": "Recognized for exceptional academic performance and contributions to research."
+        },
+        {
+          "year": "2021",
+          "title": "Champion of the International Academic Competition on Financial Security",
+          "organizers": "Co-Organized by the Financial Action Task Force (FATF)",
+          "summary": "Achieved top honors in a prestigious international academic competition."
+        },
+        {
+          "year": "2021",
+          "title": "Winner of the competition of academic papers 'Assessment of the regulatory impact in state and municipal management'",
+          "paper": "The impact of decarbonization policy on the allocation of industrial capital: the case of the Sverdlovsk region",
+          "summary": "Awarded for outstanding academic research on regulatory impact."
+        },
+        {
+          "year": "2020",
+          "title": "Winner of the competition of academic papers 'Economic growth of Russia'",
+          "paper": "Transformation of Kuznets cycles in post-socialist countries. Relationship between the cycles and economic growth",
+          "summary": "Awarded for research on economic growth and Kuznets cycles."
+        },
+        {
+          "year": "2020",
+          "title": "Winner of academic papers competition 'Innovative Development Strategies'",
+          "paper": "Economic Policy of Cultural Industries: Effects and Mechanisms of Strategy",
+          "summary": "Recognized for research on economic policy and cultural industries."
+        }
+      ]
     }
   ],
   "publications": [
@@ -94,16 +160,22 @@
       "type": "Journal Articles",
       "items": [
         {
-          "title": "Beyond the Community",
-          "journal": "Economic Policy",
           "year": "2021",
-          "summary": "Review of 'Good Economics for Hard Times' by Abhijit Banerjee and Esther Duflo."
+          "authors": "K. Kushnarev",
+          "title": "Beyond the community: review on the book 'Good Economics for Hard Times' by Abhijit Banerjee and Esther Duflo",
+          "journal": "Economic Policy",
+          "volume": "16",
+          "pages": "124-133",
+          "language": "Russian"
         },
         {
-          "title": "Transformation of Kuznets Cycles",
-          "journal": "Scientific Works of the Free Economic Society of Russia",
-          "year": "2020",
-          "summary": "Analyzes Kuznets cycles in post-socialist countries and their relationship with economic growth."
+          "year": "2021",
+          "authors": "K. Kushnarev, P. Sokerin, A. Volkova",
+          "title": "Object detection in financial reporting documents for subsequent recognition",
+          "journal": "International Journal of Advanced Smart Convergence",
+          "volume": "10",
+          "pages": "1-11",
+          "language": "English"
         }
       ]
     }
@@ -132,7 +204,7 @@
   "service": [
     {
       "title": "Economics in Books",
-      "summary": "Authored a YouTube channel exploring economic theories in Russian research.",
+      "summary": "Authored a YouTube channel exploring economic theories.",
       "url": "https://www.youtube.com/playlist?list=PLSlOrkUZEiSxfeNVza3p1amPzfm-ePJZB"
     },
     {
