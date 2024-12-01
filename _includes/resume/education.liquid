@@ -1,5 +1,6 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign education = site.data.resume.education | sort: 'start_date' | reverse %}
+  {% assign resume = site.data.resume %}
+  {% assign education = resume.education | sort: 'start_date' | reverse %}
   {% for content in education %}
     <li class="list-group-item">
       <div class="row">
