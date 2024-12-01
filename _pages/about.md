@@ -20,8 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a pre-doc at the [Centre for Economics, Policy and History](https://ceph.ie) at Trinity College Dublin.
 
-I focus on macroeconomics and economic history. I work with microdata extracted from censuses and business directories to understand the drivers of and resistance to technological change. I am also interested in broad questions of cross-country differences in the formation of upper-level human capital.
+I focus on macroeconomics and economic history. I work with microdata extracted from censuses and business directories to understand the drivers and consequences of technological change. I am also interested in broad questions of cross-country differences in the formation of upper-level human capital.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold an MSc with Distinction in Economic History (Research) from the London School of Economics and a BA in Economics from Plekhanov Russian University of Economics. I received the Plekhanov Award for Best Research Performance among the graduating cohort across all majors, as well as a commendation from the Russian Ministry of Education. My master's dissertation was awarded the ESCoE Prize for Best Dissertation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
