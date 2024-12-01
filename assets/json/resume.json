@@ -1,15 +1,15 @@
 {
-  "main information": {
-    "Full Name": "Kirill Kushnarev",
-    "Current Appointment": "Pre-Doc at CEPH",
+  "main_information": {
+    "full_name": "Kirill Kushnarev",
+    "current_appointment": "Pre-Doc at CEPH",
     "email": "kushnark@tcd.ie",
     "url": "https://ceph.ie/people-re/kirill-kushnarev/",
-    "summary": "I am assisting with Russian Economic History projects for Dr. Marvin Suesse. In my main project, I focus on merging, cleaning, and extracting relevant data from various waves of censuses in the late Russian Empire.",
+    "summary": "I am assisting with Russian Economic History projects for Dr. Marvin Suesse. My main project focuses on merging, cleaning, and extracting relevant data from various waves of censuses in the late Russian Empire.",
     "location": {
       "address": "Arts Building, Trinity College Dublin",
-      "postalCode": "D02 PN40",
+      "postal_code": "D02 PN40",
       "city": "Dublin",
-      "countryCode": "IE",
+      "country_code": "IE",
       "region": "Dublin"
     }
   },
@@ -17,23 +17,24 @@
     {
       "institution": "London School of Economics",
       "location": "London, United Kingdom",
-      "studyType": "MSc with Distinction in Economic History (Research)",
+      "study_type": "MSc with Distinction in Economic History (Research)",
       "dissertation": "Local Labour Market Concentration Since the British Industrial Revolution",
-      "field courses": "Selective Inference (PhD level in Math, Advanced); EC539 Macroeconomics for Research Students (PhD level, Auditing); EC465 Economic Development, Growth, and Capitalism in Historical Perspective; EH441 Macroeconomic History",
-      "startDate": "2023",
-      "endDate": "2024"
+      "field_courses": "Selective Inference (PhD level in Math, Advanced); EC539 Macroeconomics for Research Students (PhD level, Auditing); EC465 Economic Development, Growth, and Capitalism in Historical Perspective; EH441 Macroeconomic History",
+      "start_date": "2023",
+      "end_date": "2024"
     },
     {
       "institution": "Plekhanov Russian University of Economics",
       "location": "Moscow, Russia",
-      "studyType": "BA in Economics",
-      "area": "With a major in Economics and a minor in Data Science",
-      "field courses": "Macroeconomics, Microeconomics, Advanced Econometrics, Advanced Statistics, Parallel Computing, and Big Data",
-      "startDate": "2018",
-      "endDate": "2022"
+      "study_type": "BA in Economics",
+      "major": "Economics",
+      "minor": "Data Science",
+      "field_courses": "Macroeconomics, Microeconomics, Advanced Econometrics, Advanced Statistics, Parallel Computing, and Big Data",
+      "start_date": "2018",
+      "end_date": "2022"
     }
   ],
-  "researchFields": [
+  "research_fields": [
     "Economic History",
     "Macroeconomics"
   ],
@@ -41,14 +42,14 @@
     {
       "name": "Trinity College Dublin",
       "position": "Pre-Doctoral Research Assistant",
-      "startDate": "2024",
+      "start_date": "2024",
       "summary": "I am working on the cross-linkages of different waves of manufacturing censuses as part of a research project under the supervision of Dr. Marvin Suesse."
     },
     {
       "name": "Plekhanov Russian University of Economics",
       "position": "Research Assistant",
-      "startDate": "2018",
-      "endDate": "2022",
+      "start_date": "2018",
+      "end_date": "2022",
       "highlights": [
         "Education Lab of Modern Financial Technology",
         "President’s Advisor’s Climate Change Working Group (resigned following the Russian invasion of Ukraine)",
@@ -216,4 +217,3 @@
     }
   ]
 }
-
